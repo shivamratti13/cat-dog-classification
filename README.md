@@ -2,6 +2,9 @@
 
 This project demonstrates the development of a binary image classifier to distinguish between cats and dogs using Convolutional Neural Networks (CNN). Leveraging a dataset comprising 20,000 training images and 5,000 validation images, two models were built and evaluated for performance.  
 
+![image](https://github.com/shivamratti13/cat-dog-classification/blob/main/Report/cat%20with%20pretrained.png)
+![image](https://github.com/shivamratti13/cat-dog-classification/blob/main/Report/dog%20with%20pretrained.png)
+
 ## Project Overview  
 
 1. **Custom CNN Architecture**:  
