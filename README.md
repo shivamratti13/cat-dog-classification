@@ -11,12 +11,14 @@ This project demonstrates the development of a binary image classifier to distin
    - Designed and implemented a CNN model from scratch using the Keras library.  
    - Included convolutional layers, pooling layers, and fully connected layers with ReLU activation.  
    - Employed dropout layers to prevent overfitting.  
-   - Achieved a classification accuracy of **77.8%**, showcasing effective model design for a from-scratch approach.  
+   - Achieved a classification accuracy of **77.8%**, showcasing effective model design for a from-scratch approach.
+   - ![image](https://github.com/shivamratti13/cat-dog-classification/blob/main/Report/CatvsDog%20without%20dataAugumentation.png)
 
 2. **Pretrained Xception Model**:  
    - Fine-tuned the pretrained Xception model from Keras, leveraging transfer learning.  
    - Replaced the top layers to suit binary classification.  
-   - Achieved a remarkable accuracy of **99.05%**, demonstrating the power of transfer learning in image classification.  
+   - Achieved a remarkable accuracy of **99.05%**, demonstrating the power of transfer learning in image classification.
+   - ![image](https://github.com/shivamratti13/cat-dog-classification/blob/main/Report/CatvsDog%20with%20pretrained.png) 
 
 ## Key Highlights  
 
